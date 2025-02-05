@@ -30,7 +30,7 @@ The **Temperature Dashboard of Telangana** is a Power BI-based analytical tool d
 4. Explore the interactive dashboard to analyze temperature trends.
 
 ## 📷 Screenshots
-
+![Image](https://github.com/user-attachments/assets/1e4bcf23-be83-49ff-a2f2-1b78c009b5c7)
 
 ## 👨‍💻 Author
 - **Mohammad Sufyaan** ([GitHub](https://github.com/sufyaann))
