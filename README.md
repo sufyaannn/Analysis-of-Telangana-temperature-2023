@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 The **Temperature Dashboard of Telangana** is a Power BI-based analytical tool designed to visualize temperature variations across different districts of Telangana in the year 2023. This project provides insights into temperature trends, enabling users to make data-driven decisions based on climate patterns.
 <br>
-### Dashboard Link :
+### Dashboard Link :https://github.com/sufyaannn/Analysis-of-Telangana-temperature-2023/blob/main/Temperature%20dahboard%20of%20Telangana.pbix
 ## 🔥 Features
 - 📊 **Interactive Power BI Dashboard** for effective data visualization.
 - 🌡️ **District-wise temperature analysis** to monitor climatic variations.
